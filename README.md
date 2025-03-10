@@ -23,3 +23,5 @@
 + 欢迎交流，留下您的宝贵意见
 
 ![图片](imgs/扫码_搜索联合传播样式-白色版.png)
+
+<a href="./docs/xieyi.pdf">Bye-bye!</a>
