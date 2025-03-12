@@ -5,7 +5,7 @@
   - [宪法](./docs/001xianfa.md)
   - [民法典](./docs/002minfadian.md)
 - 程序法   
-  - [民事诉讼法](./docs/100%E6%B0%91%E4%BA%8B%E8%AF%89%E8%AE%BC%E6%B3%95.md)    
+  - [民事诉讼法(2024)](./docs/100minshisusongfa.md)    
 - 法律计算器
   - 待补充...
 - 典型案例
