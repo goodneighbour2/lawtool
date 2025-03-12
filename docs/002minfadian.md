@@ -8,16 +8,15 @@
 
 <br>
 
-
-<div style = "font-size:8px;" >
+<div style = "color:black ;  font-size:18px; text-indent: 2em;">
 
 # 目　录
 
 
 第一编  总    则
-
  
-        第一章  基本规定  
+
+第一章  基本规定  
 
         第二章  自 然 人  
 
@@ -302,10 +301,6 @@
 附  则  
 <br><br>
 
-</div>
-
-
-<div style = "color:black ;  font-size:18px; text-indent: 2em;">
 
 # 第一编  总    则
 
