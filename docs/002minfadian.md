@@ -1,7 +1,6 @@
 <div style = "color:red ;  font-size:30px  ;text-align:center;" >
 <b>中华人民共和国民法典</b>
 </div>
-<br>
 
 　<div style = "text-align:center;" >
 （2020年5月28日第十三届全国人民代表大会第三次会议通过）
