@@ -1,7 +1,6 @@
 <div style = "color:red ;  font-size:30px  ;text-align:center;" >
 <b>最高人民法院<br>关于适用《中华人民共和国民事诉讼法》的<br>解释</b>
 </div>
-<br>
 
 <!-- 以下表示居中 -->
 <div style = "text-align:center; font-weight:bold; " >
