@@ -1,7 +1,7 @@
 <!-- &emsp; &emsp;&emsp;&emsp;&emsp; [**不忘初心&emsp;回到首页**](./README.md )  -->
 
 
-<!-- <div style="font-size: 14px; "> -->
+<div style="font-size: 12px; ">
 
 - 实体法
   - [宪法](./docs/001宪法.md)
@@ -26,4 +26,4 @@
   - [新公司法：条文详解·理论探讨·典型案例 2024](./docs/xieyi.md)
   - 待补充...
 - [法律咨询](./docs/201%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC.md)
-<!-- </div> -->
+</div>
